@@ -12,7 +12,7 @@ A aplicação foi desenvolvida em:
 
 - [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://devdocs.io/css/)
-- [javaScript](https://devdocs.io/javascript/)
+- [JavaScript](https://devdocs.io/javascript/)
 
 
 ## 🚀 Como utilizar o projeto
