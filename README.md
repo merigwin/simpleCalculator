@@ -3,7 +3,7 @@
 
 ## 🟢 Projeto em tempo real
 
-- [Demo](https://codesandbox.io/p/github/merigwin/simpleCalculator/)
+- [Demo](https://5k89fv.csb.app/)
 
 
 ## ✨ Tecnologias
